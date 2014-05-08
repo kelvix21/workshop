@@ -3,3 +3,5 @@ Author: Kelvin
 Introduction: Details of tidal waves 
 Conclusion: sample data
 References: Wiley 1998 journal paper
+
+Making changes to original paper
