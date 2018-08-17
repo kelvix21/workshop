@@ -2,6 +2,6 @@ Title : A paper on ocean tidal waves
 Author: Kelvin
 Introduction: Details of tidal waves
 Conclusion: no waves
-References: Wiley 1998 journal paper
+References: Wiley 2000 journal paper
 
 Making changes to original paper
