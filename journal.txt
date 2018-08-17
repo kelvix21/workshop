@@ -1,6 +1,6 @@
 Title : A paper on ocean tidal waves
 Author: Kelvin
-Introduction: Details of snow waves
+Introduction: Details of ocean waves
 Conclusion: sample data
 References: Wiley 1998 journal paper
 
