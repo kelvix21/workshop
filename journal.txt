@@ -1,4 +1,4 @@
-Title : A paper on ocean tidal waves
+Title : A paper on ocean tidal waves - kelvin branch
 Author: Kelvin
 Introduction: Details of tidal waves
 Conclusion: no waves
