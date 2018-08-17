@@ -1,7 +1,7 @@
 Title : A paper on ocean tidal waves
 Author: Kelvin
-Introduction: Details of rapid waves
-Conclusion: sample data
+Introduction: Details of tidal waves
+Conclusion: try again
 References: Wiley 1998 journal paper
 
 Making changes to original paper
